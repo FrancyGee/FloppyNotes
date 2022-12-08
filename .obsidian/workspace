@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "f6d90474f3cc484b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8302ae77fcabee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440dfdaa8bf24b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4d72dd78177b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6b751fdffe7e5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd7032f15466a9eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a5c4f4afc4c5283",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5107650756836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ecccdcf0c000c1b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41bc94c22524280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9016b54e0dabbf30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac21bd212a23889d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94b509545cc9bbca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b2f507ed9f7c336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md"
+              }
+            }
+          },
+          {
+            "id": "fa9a4ca8d460bee8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cca618588eb1f889",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.2586669921875,
+    "collapsed": true
+  },
+  "active": "0f8302ae77fcabee",
+  "lastOpenFiles": [
+    "ALAN/section Algebra Lineare/1. Matrici.md",
+    "SETI/sections Os/3. System Call.md",
+    "SETI/References.md",
+    "SETI/Main.md",
+    "SETI/sections Os/2. Shell.md",
+    "SETI/sections Os/1. Introduzione ai Sistemi Operativi.md",
+    "ALAN/References.md",
+    "ALAN/Main.md",
+    "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+    "ALAN/sections Analisi Numerica/2.Rappresentazione dei numeri.md"
+  ]
+}

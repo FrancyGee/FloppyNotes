@@ -1,0 +1,11 @@
+{
+  "translucency": true,
+  "theme": "moonstone",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian-pagebreak",
+    "obsidian-centerimage"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}

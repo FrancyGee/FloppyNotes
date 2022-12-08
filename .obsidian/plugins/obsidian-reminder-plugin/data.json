@@ -1,0 +1,45 @@
+{
+  "scanned": true,
+  "reminders": {
+    "ALAN/sections Analisi Numerica/2.Rappresentazione dei numeri.md": [
+      {
+        "title": "Finire esempio",
+        "time": "2022-10-20",
+        "rowNumber": 53
+      }
+    ],
+    "ALAN/section Algebra Lineare/3. Matrici Inverse.md": [
+      {
+        "title": "Completare esempio",
+        "time": "2022-10-20",
+        "rowNumber": 71
+      }
+    ],
+    "SETI/sections Os/4. File.md": [
+      {
+        "title": "Da completare",
+        "time": "2022-10-20",
+        "rowNumber": 3
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": true,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

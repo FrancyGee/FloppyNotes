@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it-IT"
+  ],
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_images",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true
+}

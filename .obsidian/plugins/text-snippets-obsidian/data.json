@@ -1,0 +1,14 @@
+{
+  "snippets_file": "title : <h1  style=\"text-align: center;\"> $end$ </h1>\n",
+  "snippets": [
+    "title : <h1  style=\"text-align: center;\"> $end$ </h1>"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

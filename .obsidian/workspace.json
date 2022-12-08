@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f6d90474f3cc484b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5025e6e3e97708cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cdf9dc2b6a62e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440dfdaa8bf24b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a4d72dd78177b6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd6b751fdffe7e5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd7032f15466a9eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a5c4f4afc4c5283",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5107650756836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ecccdcf0c000c1b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41bc94c22524280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9016b54e0dabbf30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac21bd212a23889d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94b509545cc9bbca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b2f507ed9f7c336",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md"
+              }
+            }
+          },
+          {
+            "id": "fa9a4ca8d460bee8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cca618588eb1f889",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5,
+    "collapsed": true
+  },
+  "active": "5cdf9dc2b6a62e5a",
+  "lastOpenFiles": [
+    "ALAN/References.md",
+    "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+    "ADC/section/1. Codici Numerici.md",
+    "LPO/Main.md",
+    "LPO/sections/Object-Oriented Programming.md",
+    "ADC/section/2. Circuiti Logici e Sequenziali.md",
+    "SETI/sections Reti/4. Email.md",
+    "_Excalidraw/SMTP_EXAMPLE1.md",
+    "_Excalidraw/send_mail.md",
+    "SETI/sections Reti/3. UDP PING (Labo).md"
+  ]
+}
