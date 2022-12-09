@@ -1,2 +1,0 @@
-# FloppyNotes
-Appunti di Floppy

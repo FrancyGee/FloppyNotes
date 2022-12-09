@@ -23,7 +23,7 @@ Nella prima parte ci occuperemo di introdurre i concetti di analisi numerica app
 4. [[4.  Eliminazione di Gauss]]
 5. [[5. Sistemi Lineari]]
 6. [[6. Determinante]]
-7. [[7. Rango delle Matrici]]
+7. [[7. Ordine e Rango delle Matrici]]
 8. [[8. Vettori nel Piano]]
 9. [[9. Spazi Vettoriali]]
 10. [[10. Dipendenza Lineare]]

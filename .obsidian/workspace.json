@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5025e6e3e97708cd",
+        "id": "6aa60589c4bed5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "5cdf9dc2b6a62e5a",
+            "id": "722dc83b9b37e6ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "file": "ALAN/section Algebra Lineare/5. Sistemi Lineari.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "file": "ALAN/section Algebra Lineare/5. Sistemi Lineari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
+                "file": "ALAN/section Algebra Lineare/5. Sistemi Lineari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md"
+                "file": "ALAN/section Algebra Lineare/5. Sistemi Lineari.md"
               }
             }
           },
@@ -154,17 +154,17 @@
     "width": 379.5,
     "collapsed": true
   },
-  "active": "5cdf9dc2b6a62e5a",
+  "active": "722dc83b9b37e6ac",
   "lastOpenFiles": [
-    "ALAN/References.md",
-    "ALAN/sections Analisi Numerica/1. Teoria degli Errori.md",
-    "ADC/section/1. Codici Numerici.md",
-    "LPO/Main.md",
-    "LPO/sections/Object-Oriented Programming.md",
-    "ADC/section/2. Circuiti Logici e Sequenziali.md",
-    "SETI/sections Reti/4. Email.md",
-    "_Excalidraw/SMTP_EXAMPLE1.md",
-    "_Excalidraw/send_mail.md",
-    "SETI/sections Reti/3. UDP PING (Labo).md"
+    "ALAN/section Algebra Lineare/6. Determinante.md",
+    "ALAN/section Algebra Lineare/4.  Eliminazione di Gauss.md",
+    "ALAN/section Algebra Lineare/3. Matrici Inverse.md",
+    "ALAN/section Algebra Lineare/5. Sistemi Lineari.md",
+    "ALAN/section Algebra Lineare/11. Basi.md",
+    "ALAN/section Algebra Lineare/2. Operazioni tra Matrici.md",
+    "ALAN/section Algebra Lineare/7. Ordine e Rango delle Matrici.md",
+    "ALAN/section Algebra Lineare/8. Vettori nel Piano.md",
+    "ADC/section/5. Amber (ARM 2).md",
+    "Pasted image 20221208221634.png.md"
   ]
 }
