@@ -32,5 +32,23 @@
       "key": "Q"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "obsidian-shellcommands:shell-command-yrszda25eo": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-j825l5ax7g": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ]
 }
