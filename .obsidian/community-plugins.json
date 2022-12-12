@@ -13,9 +13,12 @@
   "obsidian-reminder-plugin",
   "search-on-internet",
   "execute-code",
-  "obsidian-charts",
-  "obsidian-regex-replace",
   "obsidian-excel-to-markdown-table",
   "obsidian-hider",
-  "text-snippets-obsidian"
+  "text-snippets-obsidian",
+  "dataview",
+  "obsidian-textgenerator-plugin",
+  "obsidian-editor-shortcuts",
+  "open-vscode",
+  "obsidian-git"
 ]

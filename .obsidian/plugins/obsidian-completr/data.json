@@ -3,10 +3,10 @@
   "maxLookBackDistance": 50,
   "minWordLength": 2,
   "minWordTriggerLength": 3,
-  "wordInsertionMode": "Ignore-Case & Replace",
+  "wordInsertionMode": "Match-Case & Replace",
   "ignoreDiacriticsWhenFiltering": false,
   "latexProviderEnabled": true,
-  "latexTriggerInCodeBlocks": true,
+  "latexTriggerInCodeBlocks": false,
   "latexMinWordTriggerLength": 2,
   "latexIgnoreCase": true,
   "fileScannerProviderEnabled": false,
@@ -14,5 +14,6 @@
   "wordListProviderEnabled": false,
   "frontMatterProviderEnabled": false,
   "frontMatterTagAppendSuffix": false,
-  "frontMatterIgnoreCase": false
+  "frontMatterIgnoreCase": false,
+  "calloutProviderEnabled": true
 }

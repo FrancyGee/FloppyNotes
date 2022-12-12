@@ -23,6 +23,14 @@
         "Mod"
       ],
       "key": "\\"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
     }
-  ]
+  ],
+  "editor:delete-paragraph": []
 }
