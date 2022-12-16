@@ -1,12 +1,12 @@
+---
+tags: index
+---
 
-
-# Table of Contents
-- [[1. Rappresentazione delle Informazioni]]
-- [[2. Circuiti Logici e Sequenziali]]
-- [[3. Architettura Von Neumann]]
-- [[4. Architettura Pipeline]]
-- [[5. Amber (ARM 2)]]
-- [[ADC/References]]
+## Table of Content
+```dataview
+LIST
+FROM "ADC/section"
+```
 
 
 ## TODO

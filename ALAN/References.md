@@ -1,3 +1,7 @@
+---
+tags: references
+---
+
 # References Analisi Numerica
 
 1. [L'analisi numerica UNIPI](https://people.dm.unipi.it/bini/Didattica/AnaNum/testi/Dispense/analisi_numerica.pdf)

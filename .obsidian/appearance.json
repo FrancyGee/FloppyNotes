@@ -4,7 +4,9 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "obsidian-pagebreak",
-    "obsidian-centerimage"
+    "obsidian-centerimage",
+    "dashboard",
+    "dashboard-ReadLineLength"
   ],
   "accentColor": "",
   "showViewHeader": true
