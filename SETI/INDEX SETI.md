@@ -8,7 +8,7 @@
 2. [[2. Protocols]]
 3. [[4. Email]]
 4. [[5. HTTP (RFC 1945)]]
-5. [[SETI/References]]
+5. [[REFERENCES SETI]]
 
 
 
@@ -20,7 +20,7 @@
 5. [[5. Processi]]
 6. [[6. Scheduling]]
 8. [[Cheatsheet comandi]]
-9. [[SETI/References]]
+9. [[REFERENCES SETI]]
 
 
 

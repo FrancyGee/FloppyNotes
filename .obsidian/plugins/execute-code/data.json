@@ -75,7 +75,7 @@
   "scalaInject": "",
   "cArgs": "",
   "cUseMain": true,
-  "cInject": "",
+  "cInject": "#include <stdio.h>\n#include <stdlib.h>\n",
   "jsInteractive": true,
   "tsInteractive": false,
   "csInteractive": false,

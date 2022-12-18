@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "34175a67fbc968df",
+        "id": "b39a91ed6332d723",
         "type": "tabs",
         "children": [
           {
-            "id": "a43b02e60021abc6",
+            "id": "6f508811c37f7a65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SETI/sections Os/2. Shell.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5ba9c28d3045b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETI/sections Os/2. Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETI/sections Os/2. Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SETI/sections Os/2. Shell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,26 +152,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "fee0a8041cca00f8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
     "width": 416.5,
     "collapsed": true
   },
-  "active": "a43b02e60021abc6",
+  "active": "6f508811c37f7a65",
   "lastOpenFiles": [
-    "Home.md",
-    "SETI/sections Os/2. Shell.md",
-    "SETI/sections Os/1. Introduzione ai Sistemi Operativi.md",
-    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
+    "ADC/FLASHCARDS ADC.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
+    "ALAN/FLASHCARDS ALAN.md",
+    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md",
     "ALAN/section Algebra Lineare/01. Introduzione alle Matrici.md",
-    "ADC/section/02. Circuiti Logici e Sequenziali.md",
-    "ADC/section/04. Architettura Pipeline.md",
-    "ADC/section/03. Architettura Von Neumann.md",
-    "ADC/section/05. Amber (ARM 2).md",
-    "ADC/section/01. Rappresentazione delle Informazioni.md"
+    "ADC/REFERENCES ADC.md",
+    "ADC/INDEX ADC.md",
+    "ALAN/REFERENCES ALAN.md"
   ]
 }
