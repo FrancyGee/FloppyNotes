@@ -59,5 +59,23 @@
       ],
       "key": "H"
     }
+  ],
+  "templater-obsidian:_Templates/Untitled.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:_Templates/template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

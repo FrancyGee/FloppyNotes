@@ -11,11 +11,28 @@
             "id": "6f508811c37f7a65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "849c9c1b2e2a9a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ADC/sections/04. Architettura Pipeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ADC/sections/04. Architettura Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ADC/sections/04. Architettura Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ADC/sections/04. Architettura Pipeline.md"
+              }
             }
           },
           {
@@ -169,17 +190,17 @@
     "width": 416.5,
     "collapsed": true
   },
-  "active": "6f508811c37f7a65",
+  "active": "849c9c1b2e2a9a5a",
   "lastOpenFiles": [
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "ADC/FLASHCARDS ADC.md",
+    "_Templates/template.md",
+    "ADC/sections/04. Architettura Pipeline.md",
+    "ADC/sections/03. Architettura Von Neumann.md",
     "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ADC/sections/05. Amber (ARM 2).md",
+    "ADC/FLASHCARDS ADC.md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
     "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
     "ALAN/FLASHCARDS ALAN.md",
-    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md",
-    "ALAN/section Algebra Lineare/01. Introduzione alle Matrici.md",
-    "ADC/REFERENCES ADC.md",
-    "ADC/INDEX ADC.md",
-    "ALAN/REFERENCES ALAN.md"
+    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md"
   ]
 }
