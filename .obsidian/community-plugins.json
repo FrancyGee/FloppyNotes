@@ -14,17 +14,16 @@
   "search-on-internet",
   "execute-code",
   "obsidian-excel-to-markdown-table",
-  "obsidian-hider",
   "text-snippets-obsidian",
   "dataview",
-  "obsidian-textgenerator-plugin",
   "obsidian-editor-shortcuts",
   "open-vscode",
   "obsidian-shellcommands",
   "nldates-obsidian",
-  "calendar",
-  "obsidian-banners",
   "settings-search",
   "obsidian-spaced-repetition",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-hider",
+  "obsidian-charts",
+  "obsidian-functionplot"
 ]

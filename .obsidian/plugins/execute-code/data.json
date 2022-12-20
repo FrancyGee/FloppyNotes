@@ -74,7 +74,7 @@
   "scalaFileExtension": "scala",
   "scalaInject": "",
   "cArgs": "",
-  "cUseMain": true,
+  "cUseMain": false,
   "cInject": "#include <stdio.h>\n#include <stdlib.h>\n",
   "jsInteractive": true,
   "tsInteractive": false,

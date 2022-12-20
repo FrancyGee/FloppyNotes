@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b39a91ed6332d723",
+        "id": "8d1a49d7c835fac0",
         "type": "tabs",
         "children": [
           {
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "849c9c1b2e2a9a5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADC/sections/04. Architettura Pipeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5107650756836
+    "width": 234.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "ecccdcf0c000c1b3",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADC/sections/04. Architettura Pipeline.md",
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADC/sections/04. Architettura Pipeline.md",
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADC/sections/04. Architettura Pipeline.md"
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md"
               }
             }
           },
@@ -167,14 +155,6 @@
             }
           },
           {
-            "id": "5e8762564de86ba3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "fee0a8041cca00f8",
             "type": "leaf",
             "state": {
@@ -183,24 +163,24 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 416.5,
     "collapsed": true
   },
-  "active": "849c9c1b2e2a9a5a",
+  "active": "6f508811c37f7a65",
   "lastOpenFiles": [
-    "_Templates/template.md",
-    "ADC/sections/04. Architettura Pipeline.md",
-    "ADC/sections/03. Architettura Von Neumann.md",
     "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/05. Amber (ARM 2).md",
-    "ADC/FLASHCARDS ADC.md",
+    "ADC/REFERENCES ADC.md",
     "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
-    "ALAN/FLASHCARDS ALAN.md",
-    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md"
+    "_Excalidraw/ADC_perdita_informazione_modem.excalidraw.md",
+    "_Excalidraw/Drawing 2022-12-19 22.54.14.excalidraw.md",
+    "_Excalidraw/Drawing 2022-12-19 22.54.10.excalidraw.md",
+    "_Templates/template.md",
+    "ALAN/sections Analisi Numerica/01. Teoria degli Errori.md",
+    "ALAN/sections Analisi Numerica/02.Rappresentazione dei numeri.md",
+    "ADC/sections/03. Architettura Von Neumann.md"
   ]
 }
