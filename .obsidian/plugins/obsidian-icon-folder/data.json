@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiSettings3Fill",
+      "FasChartBar",
       "FabJava",
       "RiComputerLine",
-      "RiBrushFill",
-      "FasPaintbrush",
-      "FarImages"
+      "RiBrushFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,7 @@
   "ALAN": "FasCalculator",
   "_images": "FarImages",
   "_Excalidraw": "RiBrushFill",
-  "ADC": "RiComputerLine"
+  "ADC": "RiComputerLine",
+  "_Plots": "FasChartBar",
+  "_Templates": "RiSettings3Fill"
 }

@@ -13,12 +13,12 @@
 
 
 ## Table of contents OS:
-1. [[1. Introduzione ai Sistemi Operativi]] 
-2. [[2. Shell]]
-3. [[3.System Call]]
-4. [[4. File]]
-5. [[5. Processi]]
-6. [[6. Scheduling]]
+1. [[01. Introduzione ai Sistemi Operativi]] 
+2. [[02. Shell]]
+3. [[03.System Call]]
+4. [[04. File]]
+5. [[05. Processi]]
+6. [[06. Scheduling]]
 8. [[Cheatsheet comandi]]
 9. [[REFERENCES SETI]]
 

@@ -12,8 +12,6 @@ NOT ^G34eU0cl
 
 A ^odWn8eLQ
 
-B ^1g811nT7
-
 X ^pGijyraM
 
 %%
@@ -26,8 +24,8 @@ X ^pGijyraM
 	"elements": [
 		{
 			"type": "line",
-			"version": 176,
-			"versionNonce": 1013789818,
+			"version": 241,
+			"versionNonce": 100516448,
 			"isDeleted": false,
 			"id": "kylCum_R9HrebL0dxFPXQ",
 			"fillStyle": "hachure",
@@ -36,8 +34,8 @@ X ^pGijyraM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.7421875,
-			"y": -152.7421875,
+			"x": -181.7421875,
+			"y": -124.2421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 197,
@@ -48,7 +46,7 @@ X ^pGijyraM
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1671361764684,
+			"updated": 1672156049350,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -64,49 +62,6 @@ X ^pGijyraM
 				[
 					197,
 					2
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 212,
-			"versionNonce": 1938417702,
-			"isDeleted": false,
-			"id": "tHhxnolxnJN-nppUVZe0d",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -180.87642614393957,
-			"y": -92.33583465293049,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 200,
-			"height": 3,
-			"seed": 819831802,
-			"groupIds": [],
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1671361764684,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					200,
-					-3
 				]
 			]
 		},
@@ -241,8 +196,8 @@ X ^pGijyraM
 		},
 		{
 			"type": "text",
-			"version": 41,
-			"versionNonce": 1566624378,
+			"version": 78,
+			"versionNonce": 1112355744,
 			"isDeleted": false,
 			"id": "G34eU0cl",
 			"fillStyle": "hachure",
@@ -251,8 +206,8 @@ X ^pGijyraM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -48.7421875,
-			"y": -6.7421875,
+			"x": -49.7421875,
+			"y": -45.7421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 45,
@@ -261,7 +216,7 @@ X ^pGijyraM
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1671361796495,
+			"updated": 1672156051836,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -304,8 +259,8 @@ X ^pGijyraM
 		},
 		{
 			"type": "text",
-			"version": 6,
-			"versionNonce": 1315684218,
+			"version": 27,
+			"versionNonce": 1679675296,
 			"isDeleted": false,
 			"id": "odWn8eLQ",
 			"fillStyle": "hachure",
@@ -314,8 +269,8 @@ X ^pGijyraM
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.7421875,
-			"y": -178.7421875,
+			"x": -177.2421875,
+			"y": -156.7421875,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 15,
@@ -324,7 +279,7 @@ X ^pGijyraM
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1671361787604,
+			"updated": 1672156050244,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -336,41 +291,6 @@ X ^pGijyraM
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "A"
-		},
-		{
-			"type": "text",
-			"version": 45,
-			"versionNonce": 1328023910,
-			"isDeleted": false,
-			"id": "1g811nT7",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -181.2421875,
-			"y": -88.2421875,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 17,
-			"height": 25,
-			"seed": 1858964774,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1671361793077,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "B",
-			"rawText": "B",
-			"baseline": 18,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "B"
 		},
 		{
 			"type": "text",
@@ -393,7 +313,7 @@ X ^pGijyraM
 			"seed": 1905504570,
 			"groupIds": [],
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1671362497465,
 			"link": null,
 			"locked": false,
@@ -406,6 +326,84 @@ X ^pGijyraM
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "X"
+		},
+		{
+			"type": "line",
+			"version": 213,
+			"versionNonce": 1967195744,
+			"isDeleted": true,
+			"id": "tHhxnolxnJN-nppUVZe0d",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -180.87642614393957,
+			"y": -92.33583465293049,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 200,
+			"height": 3,
+			"seed": 819831802,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1672156047010,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					200,
+					-3
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 46,
+			"versionNonce": 1601852000,
+			"isDeleted": true,
+			"id": "1g811nT7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -181.2421875,
+			"y": -88.2421875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 17,
+			"height": 25,
+			"seed": 1858964774,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1672156044800,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "B",
+			"rawText": "B",
+			"baseline": 18,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "B"
 		}
 	],
 	"appState": {
@@ -423,7 +421,7 @@ X ^pGijyraM
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 438.2293096076744,
+		"scrollX": 378.4767769115116,
 		"scrollY": 317.87109375,
 		"zoom": {
 			"value": 2

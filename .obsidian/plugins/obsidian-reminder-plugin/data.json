@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "ALAN/section Algebra Lineare/03. Matrici Inverse.md": [
-      {
-        "title": "Completare esempio",
-        "time": "2022-10-20",
-        "rowNumber": 76
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",

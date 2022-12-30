@@ -1,13 +1,13 @@
 {
   "translucency": true,
   "theme": "moonstone",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "obsidian-pagebreak",
     "obsidian-centerimage",
     "dashboard",
     "dashboard-ReadLineLength"
   ],
-  "accentColor": "",
+  "accentColor": "#247aa8",
   "showViewHeader": true
 }

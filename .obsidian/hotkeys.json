@@ -77,5 +77,14 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-textgenerator-plugin:generate-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }
