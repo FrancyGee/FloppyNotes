@@ -1,9 +1,8 @@
 ---
 cssclass: dashboard
 banner: "![[banner.png]]"
+banner_y: 0.5
 ---
-
-
 
 # ADC
 
@@ -11,7 +10,6 @@ banner: "![[banner.png]]"
 TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "ADC/sections"
 ```
-
 # SETI
 
 ## SETI OS
@@ -30,3 +28,24 @@ FROM "SETI/sections RETI"
 
 
 # ALAN
+
+## ALGEBRA LINEARE
+
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "ALAN/section Algebra Lineare"
+```
+
+
+## ANALISI NUMERICA
+
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "ALAN/section Analisi Numerica"
+```
+
+
+
+
+
+

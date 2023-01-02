@@ -9,6 +9,8 @@
   "openMode": "Replace all open notes",
   "manualOpenMode": "Keep open notes",
   "view": "Default view",
+  "revertView": true,
   "refreshDataview": false,
-  "autoCreate": true
+  "autoCreate": true,
+  "pin": true
 }

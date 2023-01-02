@@ -5,7 +5,7 @@ tags: index
 ## Table of Content
 ```dataview
 LIST
-FROM "ADC/section"
+FROM "ADC/sections"
 ```
 
 

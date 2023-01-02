@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e98348ace653b2e3",
+        "id": "185daa17d6b775cf",
         "type": "tabs",
         "children": [
           {
-            "id": "42d45d815801e1e2",
+            "id": "0890d8d76eab563d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "3fecd745a66ac22a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,7 @@
               "state": {
                 "file": "ADC/sections/02. Circuiti Logici e Sequenziali.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -130,7 +145,7 @@
             }
           },
           {
-            "id": "7635a8cdc107992d",
+            "id": "b90f5b7d81da42d8",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -138,14 +153,15 @@
             }
           },
           {
-            "id": "fa9a4ca8d460bee8",
+            "id": "796721ce4ae88d32",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "08926b85f7f27439",
@@ -182,17 +198,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "42d45d815801e1e2",
+  "active": "3fecd745a66ac22a",
   "lastOpenFiles": [
-    "ADC/sections/03. Architettura Von Neumann.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
+    "_Templates/template.md",
     "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
-    "Home.md",
-    "_Excalidraw/ADC_FFD.excalidraw 1.md",
-    "_Excalidraw/ADC_FFD_ANOMALO.excalidraw.md",
-    "ADC/FLASHCARDS ADC.md",
-    "ADC/INDEX ADC.md",
-    "_Excalidraw/Drawing 2022-12-19 22.54.14.excalidraw.md"
+    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md",
+    "ALAN/section Algebra Lineare/05. Sistemi Lineari.md",
+    "ALAN/section Algebra Lineare/06. Determinante.md",
+    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
+    "ALAN/section Algebra Lineare/01. Introduzione alle Matrici.md",
+    "ALAN/section Analisi Numerica/01. Teoria degli Errori.md",
+    "ALAN/section Analisi Numerica/02.Rappresentazione dei numeri.md",
+    "ALAN/FLASHCARDS ALAN.md"
   ]
 }

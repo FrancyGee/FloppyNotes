@@ -10,7 +10,6 @@
   "obsidian-excalidraw-plugin",
   "code-block-copy",
   "obsidian-reminder-plugin",
-  "search-on-internet",
   "text-snippets-obsidian",
   "dataview",
   "obsidian-editor-shortcuts",
@@ -28,5 +27,6 @@
   "multi-column-markdown",
   "obsidian-circuitjs",
   "execute-code",
-  "obsidian-plugin-todo"
+  "obsidian-plugin-todo",
+  "quickadd"
 ]

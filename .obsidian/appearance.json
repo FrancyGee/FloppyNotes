@@ -4,8 +4,8 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "obsidian-pagebreak",
-    "obsidian-centerimage",
     "dashboard",
+    "obsidian-centerimage",
     "dashboard-ReadLineLength"
   ],
   "accentColor": "#247aa8",
