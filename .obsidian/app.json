@@ -4,7 +4,8 @@
   "strictLineBreaks": false,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "it-IT"
+    "it-IT",
+    "it"
   ],
   "alwaysUpdateLinks": true,
   "vimMode": false,

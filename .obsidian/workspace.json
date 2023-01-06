@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "185daa17d6b775cf",
+        "id": "78441c4dfc06624a",
         "type": "tabs",
         "children": [
           {
-            "id": "0890d8d76eab563d",
+            "id": "a3fd842e0fa678f2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "3fecd745a66ac22a",
+            "id": "90a72a2c68b3abc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+                "file": "ADC/sections/04. Architettura Pipeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+                "file": "ADC/sections/04. Architettura Pipeline.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+                "file": "ADC/sections/04. Architettura Pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADC/sections/02. Circuiti Logici e Sequenziali.md"
+                "file": "ADC/sections/04. Architettura Pipeline.md"
               }
             }
           },
@@ -198,17 +198,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "3fecd745a66ac22a",
+  "active": "90a72a2c68b3abc3",
   "lastOpenFiles": [
+    "ADC/sections/03. Architettura Von Neumann.md",
+    "ADC/sections/04. Architettura Pipeline.md",
+    "Home.md",
+    "ADC/REFERENCES ADC.md",
+    "ADC/sections/05. Amber (ARM 2).md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
     "_Templates/template.md",
     "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
-    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md",
-    "ALAN/section Algebra Lineare/05. Sistemi Lineari.md",
-    "ALAN/section Algebra Lineare/06. Determinante.md",
-    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
-    "ALAN/section Algebra Lineare/01. Introduzione alle Matrici.md",
-    "ALAN/section Analisi Numerica/01. Teoria degli Errori.md",
-    "ALAN/section Analisi Numerica/02.Rappresentazione dei numeri.md",
-    "ALAN/FLASHCARDS ALAN.md"
+    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md"
   ]
 }
