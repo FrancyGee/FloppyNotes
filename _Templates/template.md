@@ -10,5 +10,4 @@ difficulty:
 
 # Flashcards
 
-# 
-
+# [[|← Prev]] | [[| Next →]]
