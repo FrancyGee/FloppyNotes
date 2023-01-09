@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "176b5d0674b0d10e",
+        "id": "aafa69ed4363cac0",
         "type": "tabs",
         "children": [
           {
-            "id": "8beea90a4581ba6e",
+            "id": "d7dc4f564620addd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,17 +16,23 @@
               "state": {
                 "file": "Home.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "3a0abae9d006c9f9",
+            "id": "8b0d80678233cd9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ADC/sections/05. Architettura Moderna.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ADC/sections/05. Architettura Moderna.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ADC/sections/05. Architettura Moderna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ADC/sections/05. Architettura Moderna.md"
+              }
             }
           },
           {
@@ -190,17 +200,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "bd6b751fdffe7e5a",
+  "active": "8b0d80678233cd9d",
   "lastOpenFiles": [
-    "ADC/sections/03. Architettura Von Neumann.md",
     "Home.md",
-    "ADC/sections/04. Architettura PDP.md",
-    "ADC/sections/05. Architettura Moderna.md",
-    "ADC/sections/Untitled.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "ADC/FLASHCARDS ADC.md",
     "ADC/INDEX ADC.md",
-    "_Excalidraw/ADC-pdp-11_architettura.excalidraw.md"
+    "ADC/sections/05. Architettura Moderna.md",
+    "ADC/sections/03. Architettura Von Neumann.md",
+    "ADC/sections/04. Architettura PDP.md",
+    "SETI/sections OS/03.System Call.md",
+    "| Next →.md",
+    "SETI/sections OS/02. Shell.md",
+    "ADC/sections/06. Amber (ARM 2).md",
+    "_Templates/template.md"
   ]
 }

@@ -12,5 +12,5 @@
   "enableSource": true,
   "enableLivePreview": true,
   "debounce": 500,
-  "iconPosition": "front"
+  "iconPosition": "back"
 }

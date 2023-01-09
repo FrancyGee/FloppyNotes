@@ -24,7 +24,7 @@
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
-    "enableNoteReviewPaneOnStartup": true,
+    "enableNoteReviewPaneOnStartup": false,
     "tagsToReview": [
       "#review"
     ],
@@ -41,7 +41,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2022-12-18",
+  "buryDate": "2023-01-08",
   "buryList": [],
-  "historyDeck": "flashcards"
+  "historyDeck": "ADC"
 }
