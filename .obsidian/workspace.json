@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aafa69ed4363cac0",
+        "id": "e80fb63bf537fc19",
         "type": "tabs",
         "children": [
           {
-            "id": "d7dc4f564620addd",
+            "id": "212a79c9484d86ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "8b0d80678233cd9d",
+            "id": "7bf39887906c3519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADC/sections/05. Architettura Moderna.md",
+                "file": "ADC/sections/06. Virtualizzazione.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADC/sections/05. Architettura Moderna.md",
+                "file": "ADC/sections/06. Virtualizzazione.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADC/sections/05. Architettura Moderna.md",
+                "file": "ADC/sections/06. Virtualizzazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADC/sections/05. Architettura Moderna.md"
+                "file": "ADC/sections/06. Virtualizzazione.md"
               }
             }
           },
@@ -200,17 +200,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8b0d80678233cd9d",
+  "active": "7bf39887906c3519",
   "lastOpenFiles": [
-    "Home.md",
-    "ADC/INDEX ADC.md",
     "ADC/sections/05. Architettura Moderna.md",
-    "ADC/sections/03. Architettura Von Neumann.md",
-    "ADC/sections/04. Architettura PDP.md",
+    "ADC/sections/06. Virtualizzazione.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
     "SETI/sections OS/03.System Call.md",
-    "| Next →.md",
-    "SETI/sections OS/02. Shell.md",
-    "ADC/sections/06. Amber (ARM 2).md",
-    "_Templates/template.md"
+    "SETI/sections OS/04. File.md",
+    "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
+    "SETI/sections Reti/05. HTTP (RFC 1945).md",
+    "SETI/sections Reti/04. Email.md",
+    "SETI/sections Reti/02. Protocols.md"
   ]
 }

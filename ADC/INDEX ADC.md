@@ -11,10 +11,7 @@ FROM "ADC/sections"
 
 ## TODO
 
-- Interrupt e Trap
-- Pipeline
 - Memoria Virtuale, Segnalazione e Paginazione
-- Buffer
 - Trasferimenti DMA
 
 
