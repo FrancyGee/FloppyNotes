@@ -6,7 +6,9 @@
     "flashcardTags": [
       "#FLASHCARDS",
       "#ADC",
-      "#SETI",
+      "#SETI-OS",
+      "#",
+      "SETI-NW",
       "#ALAN"
     ],
     "convertFoldersToDecks": false,
@@ -41,7 +43,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-01-08",
+  "buryDate": "2023-01-11",
   "buryList": [],
-  "historyDeck": "ADC"
+  "historyDeck": ""
 }

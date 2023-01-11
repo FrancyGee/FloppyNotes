@@ -23,11 +23,16 @@
             }
           },
           {
-            "id": "32b08cf11ca1d4d5",
+            "id": "7e81d90d37c2c3d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SETI/sections OS/05. Processi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SETI/sections OS/05. Processi.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SETI/sections OS/05. Processi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SETI/sections OS/05. Processi.md"
+              }
             }
           },
           {
@@ -146,29 +155,15 @@
             }
           },
           {
-            "id": "796721ce4ae88d32",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "08926b85f7f27439",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "133b38098732ac70",
+            "id": "9c80fec7c9685f59",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,7 +172,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
       "templater-obsidian:Templater": false,
@@ -187,21 +181,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bd6b751fdffe7e5a",
+  "active": "7e81d90d37c2c3d5",
   "lastOpenFiles": [
-    "ADC/sections/07. Amber (ARM 2).md",
-    "ADC/sections/06. Virtualizzazione.md",
     "Home.md",
-    "ADC/sections/Untitled.md",
-    "ADC/sections/05. Architettura Moderna.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "ADC/sections/03. Architettura Von Neumann.md",
-    "ALAN/FLASHCARDS ALAN.md",
-    "ADC/sections/04. Architettura PDP.md"
+    "SETI/sections OS/04. File.md",
+    "SETI/sections OS/03.System Call.md",
+    "SETI/sections OS/02. Shell.md",
+    "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
+    "SETI/sections OS/05. Processi.md",
+    "SETI/sections OS/Cheatsheet comandi.md",
+    "SETI/sections OS/06. Scheduling.md",
+    "SETI/sections OS/07. Thread.md",
+    "ADC/sections/06. Virtualizzazione.md"
   ]
 }
