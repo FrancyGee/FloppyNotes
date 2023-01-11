@@ -1,7 +1,11 @@
 {
-  "snippets_file": "title : <h1  style=\"text-align: center;\"> $end$ </h1>\n",
+  "snippets_file": "title : <h1  style=\"text-align: center;\"> $end$ </h1>\n\nez : 🟢\nmeh : 🟡\nmmm : 🟠\nbruh : 🔴",
   "snippets": [
-    "title : <h1  style=\"text-align: center;\"> $end$ </h1>"
+    "title : <h1  style=\"text-align: center;\"> $end$ </h1>",
+    "ez : 🟢",
+    "meh : 🟡",
+    "mmm : 🟠",
+    "bruh : 🔴"
   ],
   "endSymbol": "$end$",
   "newlineSymbol": "$nl$",

@@ -22,9 +22,8 @@ FROM "SETI/sections OS"
 
 ```dataview
 TABLE tags as TAGS, difficulty as DIFFICULTY
-FROM "SETI/sections RETI"
+FROM "SETI/sections Reti"
 ```
-
 
 
 # ALAN

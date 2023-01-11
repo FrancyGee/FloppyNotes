@@ -12,6 +12,4 @@ FROM "ADC/sections"
 ## TODO
 
 - Memoria Virtuale, Segnalazione e Paginazione
-- Trasferimenti DMA
-
 
