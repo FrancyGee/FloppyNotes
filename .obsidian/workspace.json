@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SETI/sections OS/05. Processi.md",
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETI/sections OS/05. Processi.md",
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETI/sections OS/05. Processi.md",
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SETI/sections OS/05. Processi.md"
+                "file": "ADC/sections/01. Rappresentazione delle Informazioni.md"
               }
             }
           },
@@ -189,15 +189,15 @@
   },
   "active": "7e81d90d37c2c3d5",
   "lastOpenFiles": [
-    "Home.md",
     "SETI/sections OS/04. File.md",
+    "SETI/sections OS/05. Processi.md",
+    "ADC/sections/06. Virtualizzazione.md",
+    "ADC/sections/05. Architettura Moderna.md",
+    "SETI/sections OS/Untitled 2.md",
+    "SETI/sections OS/Untitled 1.md",
+    "SETI/sections OS/Untitled.md",
     "SETI/sections OS/03.System Call.md",
     "SETI/sections OS/02. Shell.md",
-    "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
-    "SETI/sections OS/05. Processi.md",
-    "SETI/sections OS/Cheatsheet comandi.md",
-    "SETI/sections OS/06. Scheduling.md",
-    "SETI/sections OS/07. Thread.md",
-    "ADC/sections/06. Virtualizzazione.md"
+    "Home.md"
   ]
 }
