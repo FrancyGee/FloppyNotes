@@ -15,24 +15,24 @@
       }
     },
     {
-      "query": "tag:#SETI",
+      "query": "tag:#SETI-OS",
       "color": {
         "a": 1,
         "rgb": 16737792
       }
     },
     {
-      "query": "path:_Excalidraw",
+      "query": "path:ALAN",
       "color": {
         "a": 1,
-        "rgb": 16756205
+        "rgb": 11392604
       }
     },
     {
-      "query": "path:_images",
+      "query": "tag:#SETI-NW",
       "color": {
         "a": 1,
-        "rgb": 16772091
+        "rgb": 16746522
       }
     }
   ],
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.47786078914968894,
-  "close": true
+  "close": false
 }

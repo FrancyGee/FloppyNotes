@@ -21,5 +21,11 @@
   },
   "showInlineTitle": false,
   "showFrontmatter": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "_Excalidraw/",
+    "_images/",
+    "_Templates/",
+    "_Plots/"
+  ]
 }
