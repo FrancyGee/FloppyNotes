@@ -9,7 +9,8 @@
       "#SETI-OS",
       "#",
       "SETI-NW",
-      "#ALAN"
+      "#ALAN",
+      "#ASD"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -43,7 +44,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-01-11",
+  "buryDate": "2023-01-14",
   "buryList": [],
-  "historyDeck": ""
+  "historyDeck": "SETI-OS"
 }

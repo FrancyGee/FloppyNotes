@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbSearch",
       "RiSettings3Fill",
       "FasChartBar",
       "FabJava",
-      "RiComputerLine",
-      "RiBrushFill"
+      "RiComputerLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +28,6 @@
   "_Excalidraw": "RiBrushFill",
   "ADC": "RiComputerLine",
   "_Plots": "FasChartBar",
-  "_Templates": "RiSettings3Fill"
+  "_Templates": "RiSettings3Fill",
+  "ASD": "IbSearch"
 }

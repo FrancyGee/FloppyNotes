@@ -25,6 +25,13 @@ TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "SETI/sections Reti"
 ```
 
+# ASD
+
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "ASD/sections"
+```
+
 
 # ALAN
 
