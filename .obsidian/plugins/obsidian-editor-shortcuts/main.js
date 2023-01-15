@@ -71,6 +71,7 @@ var CASE;
   CASE2["UPPER"] = "upper";
   CASE2["LOWER"] = "lower";
   CASE2["TITLE"] = "title";
+  CASE2["NEXT"] = "next";
 })(CASE || (CASE = {}));
 var LOWERCASE_ARTICLES = ["the", "a", "an"];
 var DIRECTION;
@@ -102,7 +103,7 @@ var MODIFIER_KEYS = [
   "CapsLock",
   "Fn"
 ];
-var LIST_CHARACTER_REGEX = /^\s*(-|\+|\*|\d+\.|>) ?/;
+var LIST_CHARACTER_REGEX = /^\s*(-|\+|\*|\d+\.|>) (\[.\] )?/;
 
 // src/state.ts
 var SettingsState = {
@@ -345,6 +346,33 @@ var findAllMatchPositions = ({
   }
   return matchPositions;
 };
+var toTitleCase = (selectedText) => {
+  return selectedText.split(/(\s+)/).map((word, index, allWords) => {
+    if (index > 0 && index < allWords.length - 1 && LOWERCASE_ARTICLES.includes(word.toLowerCase())) {
+      return word.toLowerCase();
+    }
+    return word.charAt(0).toUpperCase() + word.substring(1).toLowerCase();
+  }).join("");
+};
+var getNextCase = (selectedText) => {
+  const textUpper = selectedText.toUpperCase();
+  const textLower = selectedText.toLowerCase();
+  const textTitle = toTitleCase(selectedText);
+  switch (selectedText) {
+    case textUpper: {
+      return textLower;
+    }
+    case textLower: {
+      return textTitle;
+    }
+    case textTitle: {
+      return textUpper;
+    }
+    default: {
+      return textUpper;
+    }
+  }
+};
 var isNumeric = (input) => input.length > 0 && !isNaN(+input);
 var getNextListPrefix = (text, direction) => {
   var _a;
@@ -353,6 +381,9 @@ var getNextListPrefix = (text, direction) => {
     let prefix = listChars[0].trimStart();
     if (isNumeric(prefix) && direction === "after") {
       prefix = +prefix + 1 + ". ";
+    }
+    if (prefix.startsWith("- [") && !prefix.includes("[ ]")) {
+      prefix = "- [ ] ";
     }
     return prefix;
   }
@@ -375,6 +406,13 @@ var formatRemainingListPrefixes = (editor, fromLine, indentation) => {
     });
   }
   editor.transaction({ changes });
+};
+var toggleVaultConfig = (app, setting) => {
+  const value = app.vault.getConfig(setting);
+  setVaultConfig(app, setting, !value);
+};
+var setVaultConfig = (app, setting, value) => {
+  app.vault.setConfig(setting, value);
 };
 
 // src/actions.ts
@@ -633,16 +671,26 @@ var transformCase = (editor, selection, caseType) => {
     [from, to] = [anchor, head];
     selectedText = editor.getRange(anchor, head);
   }
-  if (caseType === CASE.TITLE) {
-    editor.replaceRange(selectedText.split(/(\s+)/).map((word, index, allWords) => {
-      if (index > 0 && index < allWords.length - 1 && LOWERCASE_ARTICLES.includes(word.toLowerCase())) {
-        return word.toLowerCase();
-      }
-      return word.charAt(0).toUpperCase() + word.substring(1).toLowerCase();
-    }).join(""), from, to);
-  } else {
-    editor.replaceRange(caseType === CASE.UPPER ? selectedText.toUpperCase() : selectedText.toLowerCase(), from, to);
+  let replacementText = selectedText;
+  switch (caseType) {
+    case CASE.UPPER: {
+      replacementText = selectedText.toUpperCase();
+      break;
+    }
+    case CASE.LOWER: {
+      replacementText = selectedText.toLowerCase();
+      break;
+    }
+    case CASE.TITLE: {
+      replacementText = toTitleCase(selectedText);
+      break;
+    }
+    case CASE.NEXT: {
+      replacementText = getNextCase(selectedText);
+      break;
+    }
   }
+  editor.replaceRange(replacementText, from, to);
   return selection;
 };
 var expandSelection = ({
@@ -1004,6 +1052,13 @@ var CodeEditorShortcuts = class extends import_obsidian2.Plugin {
         }))
       });
       this.addCommand({
+        id: "toggleCase",
+        name: "Toggle case of selection",
+        editorCallback: (editor) => withMultipleSelections(editor, transformCase, __spreadProps(__spreadValues({}, defaultMultipleSelectionOptions), {
+          args: CASE.NEXT
+        }))
+      });
+      this.addCommand({
         id: "expandSelectionToBrackets",
         name: "Expand selection to brackets",
         editorCallback: (editor) => withMultipleSelections(editor, expandSelectionToBrackets)
@@ -1037,6 +1092,21 @@ var CodeEditorShortcuts = class extends import_obsidian2.Plugin {
         id: "goToPrevHeading",
         name: "Go to previous heading",
         editorCallback: (editor) => goToHeading(this.app, editor, "prev")
+      });
+      this.addCommand({
+        id: "toggle-line-numbers",
+        name: "Toggle line numbers",
+        callback: () => toggleVaultConfig(this.app, "showLineNumber")
+      });
+      this.addCommand({
+        id: "indent-using-tabs",
+        name: "Indent using tabs",
+        callback: () => setVaultConfig(this.app, "useTab", true)
+      });
+      this.addCommand({
+        id: "indent-using-spaces",
+        name: "Indent using spaces",
+        callback: () => setVaultConfig(this.app, "useTab", false)
       });
       this.registerSelectionChangeListeners();
       this.addSettingTab(new SettingTab(this.app, this));
