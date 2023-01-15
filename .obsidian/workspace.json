@@ -189,15 +189,15 @@
   },
   "active": "d670c7a9dd6edfe4",
   "lastOpenFiles": [
-    "SETI/sections OS/06. Scheduling.md",
-    "_Templates/template.md",
-    "_images/Pasted image 20230111121726.png",
-    "_images/Pasted image 20230112100112.png",
-    "_images/Pasted image 20230112100119.png",
-    "_images/Pasted image 20230114042107.png",
-    "_images/Pasted image 20230114052420.png",
-    "_images/Pasted image 20230114163048.png",
-    "_images/Pasted image 20230114163239.png",
-    "_images/Pasted image 20230114234206.png"
+    "SETI/sections OS/07. Thread.md",
+    "SETI/sections Reti/04. Email.md",
+    "SETI/sections Reti/02. Protocols.md",
+    "ADC/sections/07. Amber (ARM 2).md",
+    "ADC/sections/06. Virtualizzazione.md",
+    "ADC/sections/04. Architettura PDP.md",
+    "ADC/sections/03. Architettura Von Neumann.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
+    "Home.md"
   ]
 }

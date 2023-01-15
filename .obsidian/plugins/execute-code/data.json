@@ -93,7 +93,7 @@
   "fsharpFileExtension": "fsx",
   "cArgs": "",
   "cUseMain": false,
-  "cInject": "#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include <unistd.h>\n#include <time.h>",
+  "cInject": "#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n#include <unistd.h>\n#include <pthread.h>\n#include <time.h>",
   "rubyPath": "ruby",
   "rubyArgs": "",
   "rubyInject": "",
