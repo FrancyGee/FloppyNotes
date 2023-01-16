@@ -26,7 +26,7 @@
       "shells": {
         "linux": "/bin/zsh"
       },
-      "alias": "",
+      "alias": "Alacritty",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -47,6 +47,34 @@
       "input_contents": {
         "stdin": null
       }
+    },
+    {
+      "id": "9dxybw5z18",
+      "platform_specific_commands": {
+        "default": "code {{vault_path}}"
+      },
+      "shells": {},
+      "alias": "VSCode",
+      "icon": null,
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
     }
   ],
   "prompts": [],

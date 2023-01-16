@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "cm-editor-syntax-highlight-obsidian",
   "obsidian-emoji-toolbar",
   "link-favicon",
   "quick-latex",
@@ -8,12 +7,9 @@
   "obsidian-completr",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "code-block-copy",
   "obsidian-reminder-plugin",
-  "text-snippets-obsidian",
   "dataview",
   "obsidian-editor-shortcuts",
-  "open-vscode",
   "obsidian-shellcommands",
   "nldates-obsidian",
   "settings-search",
@@ -25,7 +21,5 @@
   "obsidian-minimal-settings",
   "obsidian-banners",
   "obsidian-circuitjs",
-  "execute-code",
-  "obsidian-plugin-todo",
-  "obsidian-advanced-slides"
+  "execute-code"
 ]

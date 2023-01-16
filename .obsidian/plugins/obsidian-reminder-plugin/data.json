@@ -7,6 +7,27 @@
         "time": "2023-01-07",
         "rowNumber": 78
       }
+    ],
+    "SETI/sections OS/05. Processi.md": [
+      {
+        "title": "Approfondire sui FD",
+        "time": "2023-01-16",
+        "rowNumber": 229
+      }
+    ],
+    "SETI/sections OS/07. Thread.md": [
+      {
+        "title": "Completare Mutex",
+        "time": "2023-01-16",
+        "rowNumber": 156
+      }
+    ],
+    "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md": [
+      {
+        "title": "Finire capitolo API",
+        "time": "2023-01-16",
+        "rowNumber": 78
+      }
     ]
   },
   "debug": false,

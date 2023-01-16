@@ -29,5 +29,9 @@
   "ADC": "RiComputerLine",
   "_Plots": "FasChartBar",
   "_Templates": "RiSettings3Fill",
-  "ASD": "IbSearch"
+  "ASD": "IbSearch",
+  "SETI/sections Reti/04. Email.md": {
+    "iconName": null,
+    "inheritanceIcon": "IbEmail"
+  }
 }

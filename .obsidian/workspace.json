@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bf0a4788b06314c0",
+        "id": "4ffeb7ae35dad62c",
         "type": "tabs",
         "children": [
           {
-            "id": "fddc4695eed34adf",
+            "id": "40cac62707328156",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d670c7a9dd6edfe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SETI/sections OS/07. Thread.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETI/sections OS/07. Thread.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETI/sections OS/07. Thread.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,10 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SETI/sections OS/07. Thread.md"
+                "file": "Home.md"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "528369f4c50ebb20",
+        "type": "tabs",
+        "children": [
           {
             "id": "b90f5b7d81da42d8",
             "type": "leaf",
@@ -153,17 +146,8 @@
               "type": "reminder-list",
               "state": {}
             }
-          },
-          {
-            "id": "9c80fec7c9685f59",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +157,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "open-vscode:VSCode": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -181,23 +164,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "homepage:Open homepage": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d670c7a9dd6edfe4",
+  "active": "40cac62707328156",
   "lastOpenFiles": [
-    "SETI/sections OS/07. Thread.md",
-    "SETI/sections Reti/04. Email.md",
-    "SETI/sections Reti/02. Protocols.md",
-    "ADC/sections/07. Amber (ARM 2).md",
+    "SETI/sections OS/09. Filesystem.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ADC/sections/03. Architettura Von Neumann.md",
+    "Home.md",
+    "SETI/sections OS/08. Security.md",
+    "ADC/sections/05. Architettura Moderna.md",
     "ADC/sections/06. Virtualizzazione.md",
     "ADC/sections/04. Architettura PDP.md",
-    "ADC/sections/03. Architettura Von Neumann.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "Home.md"
+    "SETI/sections OS/06. Scheduling.md",
+    "SETI/sections OS/07. Thread.md"
   ]
 }
