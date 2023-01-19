@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffeb7ae35dad62c",
+        "id": "cfe327d34a5201bd",
         "type": "tabs",
         "children": [
           {
-            "id": "40cac62707328156",
+            "id": "17bb77cf6e7f82e5",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ffdeab685c511a77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md"
               }
             }
           }
@@ -169,17 +183,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40cac62707328156",
+  "active": "ffdeab685c511a77",
   "lastOpenFiles": [
-    "SETI/sections OS/09. Filesystem.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ADC/sections/03. Architettura Von Neumann.md",
+    "SETI/sections OS/02. Shell.md",
+    "SETI/sections OS/01. Introduzione ai Sistemi Operativi.md",
+    "SETI/REFERENCES SETI.md",
+    "SETI/Cheatsheet comandi.md",
     "Home.md",
     "SETI/sections OS/08. Security.md",
-    "ADC/sections/05. Architettura Moderna.md",
-    "ADC/sections/06. Virtualizzazione.md",
-    "ADC/sections/04. Architettura PDP.md",
+    "SETI/sections OS/07. Thread.md",
     "SETI/sections OS/06. Scheduling.md",
-    "SETI/sections OS/07. Thread.md"
+    "SETI/sections OS/04. File.md",
+    "ADC/sections/05. Architettura Moderna.md"
   ]
 }
