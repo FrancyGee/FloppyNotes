@@ -21,5 +21,6 @@
   "obsidian-minimal-settings",
   "obsidian-banners",
   "obsidian-circuitjs",
-  "execute-code"
+  "embed-code-file",
+  "cm-editor-syntax-highlight-obsidian"
 ]

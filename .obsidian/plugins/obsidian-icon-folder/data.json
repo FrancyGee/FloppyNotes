@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiThealgorithms",
+      "FasDatabase",
+      "FasCode",
       "IbSearch",
-      "RiSettings3Fill",
-      "FasChartBar",
-      "FabJava",
-      "RiComputerLine"
+      "RiSettings3Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,9 @@
   "SETI/sections Reti/04. Email.md": {
     "iconName": null,
     "inheritanceIcon": "IbEmail"
-  }
+  },
+  "_Code": "FasCode",
+  "DB": "FasDatabase",
+  "TDII": "SiThealgorithms",
+  "APA": "SiThealgorithms"
 }

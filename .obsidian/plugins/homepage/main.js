@@ -1534,7 +1534,7 @@ var createPopper = /* @__PURE__ */ popperGenerator({
 
 // src/utils.ts
 function trimFile(file) {
-  return file.path.slice(0, -3);
+  return file.extension == "md" ? file.path.slice(0, -3) : file.path;
 }
 function untrimName(name) {
   return name.endsWith(".canvas") ? name : `${name}.md`;
@@ -1829,7 +1829,7 @@ var FileSuggest = class extends TextInputSuggest {
     }
   }
   selectSuggestion(file) {
-    this.inputEl.value = file.extension == "md" ? trimFile(file) : file.path;
+    this.inputEl.value = trimFile(file);
     this.inputEl.trigger("input");
     this.close();
   }
@@ -2004,8 +2004,11 @@ var Homepage = class extends import_obsidian3.Plugin {
       var _a;
       this.executing = false;
       const view = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView);
-      if (!view)
+      if (!view) {
+        if (this.settings.pin)
+          this.app.workspace.activeLeaf.setPinned(true);
         return;
+      }
       const state = view.getState();
       if (this.settings.revertView) {
         this.lastView = new WeakRef(view);

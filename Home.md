@@ -1,7 +1,7 @@
 ---
 cssclass: dashboard
 banner: "![[banner.png]]"
-banner_y: 0.5
+banner_y: 0.49197
 ---
 
 # ADC
