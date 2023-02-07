@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f644975bdc1a64aa",
+        "id": "5a8eb2b4e9af9eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "10196290ce5e7758",
+            "id": "b681765954198772",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f7d8f73087590acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASD/sections/02. Liste e Array Dinamici.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASD/sections/02. Liste e Array Dinamici.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASD/sections/02. Liste e Array Dinamici.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASD/sections/02. Liste e Array Dinamici.md"
+                "file": "Home.md"
               }
             }
           }
@@ -183,17 +169,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f7d8f73087590acf",
+  "active": "b681765954198772",
   "lastOpenFiles": [
-    "ASD/sections/03. Algoritmi di Ricerca.md",
-    "ASD/sections/04. Hash Table.md",
-    "ASD/sections/05. Alberi.md",
-    "ASD/sections/06. Grafi.md",
-    "ASD/sections/07. Analisi della Complessità.md",
-    "ASD/sections/02. Liste e Array Dinamici.md",
-    "ASD/sections/01. Algoritmi di Ordinamento.md",
-    "ADC/sections/07. Amber (ARM 2).md",
     "Home.md",
-    "_Excalidraw/ASD-example_of_tree.md"
+    "SETI/sections OS/09. Filesystem.md",
+    "ALAN/section Analisi Numerica/02.Rappresentazione dei numeri.md",
+    "ALAN/section Algebra Lineare/12. Norme Matriciali.md",
+    "ALAN/section Algebra Lineare/11. Basi.md",
+    "ALAN/section Algebra Lineare/10. Dipendenza Lineare.md",
+    "ALAN/section Algebra Lineare/09. Spazi Vettoriali.md",
+    "ALAN/section Algebra Lineare/08. Vettori.md",
+    "ALAN/section Algebra Lineare/07. Ordine e Rango delle Matrici.md",
+    "ALAN/section Algebra Lineare/06. Determinante.md"
   ]
 }

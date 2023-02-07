@@ -5,7 +5,7 @@
       {
         "title": "Completare esempio",
         "time": "2023-01-07",
-        "rowNumber": 78
+        "rowNumber": 79
       }
     ],
     "SETI/sections OS/05. Processi.md": [
@@ -27,6 +27,30 @@
         "title": "Finire capitolo API",
         "time": "2023-01-16",
         "rowNumber": 78
+      }
+    ],
+    "ASD/sections/05. Alberi.md": [
+      {
+        "title": "Aggiungere le funzioni `insert`, `delete`, `search`",
+        "time": "2023-02-28",
+        "rowNumber": 124
+      },
+      {
+        "title": "Completare Black and Red Tree",
+        "time": "2023-02-28",
+        "rowNumber": 129
+      }
+    ],
+    "ASD/sections/02. Liste e Array Dinamici.md": [
+      {
+        "title": "Completare Doubly Linked List",
+        "time": "2023-02-28",
+        "rowNumber": 117
+      },
+      {
+        "title": "Completare Queue",
+        "time": "2023-02-28",
+        "rowNumber": 122
       }
     ]
   },

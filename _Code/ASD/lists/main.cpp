@@ -9,7 +9,6 @@ typedef struct node node_t;
 typedef struct node* LinkedList;
 
 
-void init_head(LinkedList& l, int value);
 node_t *create_node(int value);
 bool isEmpty(const LinkedList l);
 void printList(const LinkedList l);
@@ -19,25 +18,10 @@ void printList(const LinkedList l);
 int main(int argc, char const *argv[])
 {
 
-    LinkedList l;
-    init_head(l, 10);
-
-
-
-    //printList(l);
-
+    LinkedList l = NULL;
+    
 
     return 0;
-}
-
-
-void init_head(LinkedList& l, int value)
-{
-    if(isEmpty(l)) {
-        l = create_node(value);
-    }
-
-    std::cout << "The list is already initialized\n";
 }
 
 
@@ -51,11 +35,22 @@ node_t *create_node(int value)
 }
 
 
+void insert_node(LinkedList& l, int value)
+{
+    if(isEmpty(l)) {
+        l = create_node(value);
+        return;
+    }
+    node_t *new_node = create_node(value);
+    new_node->next = l;
+    l = new_node;
+}
+
+
 bool isEmpty(const LinkedList l)
 {
     return l == NULL;
 }
-
 
 
 void printList(const LinkedList l)
