@@ -1,0 +1,11 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "_Code/ALAN/Python/bin",
+    "_Code/ALAN/Python/etc",
+    "_Code/ALAN/Python/include",
+    "_Code/ALAN/Python/lib",
+    "_Code/ALAN/Python/share",
+    "_Code/ALAN/Python/pyvenv.cfg"
+  ]
+}

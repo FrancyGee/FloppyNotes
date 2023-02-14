@@ -9,5 +9,6 @@
     "dashboard-ReadLineLength"
   ],
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 18
 }

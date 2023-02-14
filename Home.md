@@ -1,7 +1,7 @@
 ---
 cssclass: dashboard
 banner: "![[banner.png]]"
-banner_y: 0.49197
+banner_y: 0.49599
 ---
 
 # ADC ✅
@@ -37,7 +37,7 @@ TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "SETI/sections Reti"
 ```
 
-
+ 
 # ALAN
 
 ## ALGEBRA LINEARE

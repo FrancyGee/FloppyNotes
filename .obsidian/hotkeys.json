@@ -95,5 +95,14 @@
       ],
       "key": "V"
     }
+  ],
+  "obsidian-shellcommands:shell-command-rzp9isij6k": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

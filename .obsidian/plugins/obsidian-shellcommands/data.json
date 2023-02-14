@@ -27,7 +27,7 @@
         "linux": "/bin/zsh"
       },
       "alias": "Alacritty",
-      "icon": null,
+      "icon": "terminal",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
@@ -55,6 +55,34 @@
       },
       "shells": {},
       "alias": "VSCode",
+      "icon": "code",
+      "confirm_execution": false,
+      "ignore_error_codes": [],
+      "input_contents": {
+        "stdin": null
+      },
+      "output_channels": {
+        "stdout": "ignore",
+        "stderr": "notification"
+      },
+      "output_wrappers": {
+        "stdout": null,
+        "stderr": null
+      },
+      "output_channel_order": "stdout-first",
+      "output_handling_mode": "buffered",
+      "events": {},
+      "command_palette_availability": "enabled",
+      "preactions": [],
+      "variable_default_values": {}
+    },
+    {
+      "id": "rzp9isij6k",
+      "platform_specific_commands": {
+        "default": "code {{vault_path}}\\/_Code\\/ALAN\\/Python"
+      },
+      "shells": {},
+      "alias": "VSCODE ALAN PY",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
