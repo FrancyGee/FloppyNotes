@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ceefb3fdf78655e",
+        "id": "1e0cdc2b6a2d605b",
         "type": "tabs",
         "children": [
           {
-            "id": "be358de52b071077",
+            "id": "265def108040e188",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -21,22 +21,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a8a034a2c6f43d29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ALAN/section Algebra Lineare/07. Ordine e Rango delle Matrici.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ALAN/section Algebra Lineare/07. Ordine e Rango delle Matrici.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ALAN/section Algebra Lineare/07. Ordine e Rango delle Matrici.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ALAN/section Algebra Lineare/07. Ordine e Rango delle Matrici.md"
+                "file": "Home.md"
               }
             }
           }
@@ -183,17 +169,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8a034a2c6f43d29",
+  "active": "265def108040e188",
   "lastOpenFiles": [
-    "ALAN/section Algebra Lineare/06. Determinante.md",
-    "ALAN/section Algebra Lineare/05. Sistemi Lineari.md",
+    "Untitled.md",
     "Home.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
     "_Templates/template.md",
-    "ALAN/section Algebra Lineare/03. Matrici Inverse.md",
-    "ALAN/section Algebra Lineare/08. Vettori.md",
-    "ALAN/section Algebra Lineare/01. Introduzione alle Matrici.md",
-    "ALAN/section Algebra Lineare/09. Vettori nello Spazio.md",
-    "ALAN/section Algebra Lineare/04.  Eliminazione di Gauss.md"
+    "ADC/sections/06. Virtualizzazione.md",
+    "ADC/sections/05. Architettura Moderna.md",
+    "ADC/sections/07. Amber (ARM 2).md",
+    "ADC/sections/01. Rappresentazione delle Informazioni.md",
+    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
+    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
+    "ADC/sections/04. Architettura PDP.md",
+    "ALAN/section Algebra Lineare/06. Determinante.md",
+    "ALAN/section Algebra Lineare/05. Sistemi Lineari.md"
   ]
 }
