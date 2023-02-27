@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0cdc2b6a2d605b",
+        "id": "b43a1ed058e3c5a3",
         "type": "tabs",
         "children": [
           {
-            "id": "265def108040e188",
+            "id": "83f81c462f443a33",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "write",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ecccdcf0c000c1b3",
@@ -169,19 +170,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "265def108040e188",
+  "active": "83f81c462f443a33",
   "lastOpenFiles": [
-    "Untitled.md",
+    "APA/sections/00. Introduzione.md",
+    "DB/sections/00. Introduzione.md",
+    "_images/Pasted image 20230227101320.png",
     "Home.md",
-    "_Templates/template.md",
-    "ADC/sections/06. Virtualizzazione.md",
-    "ADC/sections/05. Architettura Moderna.md",
-    "ADC/sections/07. Amber (ARM 2).md",
-    "ADC/sections/01. Rappresentazione delle Informazioni.md",
-    "ADC/sections/02. Circuiti Logici e Sequenziali.md",
-    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
+    "APA/sections",
+    "APA",
     "ADC/sections/04. Architettura PDP.md",
-    "ALAN/section Algebra Lineare/06. Determinante.md",
-    "ALAN/section Algebra Lineare/05. Sistemi Lineari.md"
+    "ADC/sections/05. Architettura Moderna.md",
+    "SETI/sections OS/07. Thread.md",
+    "SETI/sections OS/06. Scheduling.md",
+    "SETI/sections OS/02. Shell.md",
+    "SETI/sections OS/03.System Call.md",
+    "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
+    "Untitled.md",
+    "_Templates/template.md"
   ]
 }

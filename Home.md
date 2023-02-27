@@ -50,13 +50,33 @@ FROM "ALAN/section Algebra Lineare"
 
 ## ANALISI NUMERICA
 
-
 ```dataview
 TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "ALAN/section Analisi Numerica"
 ```
 
 
+
+
+
+# APA
+
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "APA/sections"
+```
+# DB
+
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "DB/sections"
+```
+
+# TDII
+```dataview
+TABLE tags as TAGS, difficulty as DIFFICULTY
+FROM "TDII/sections"
+```
 
 
 # INCOMPLETE NOTES
