@@ -70,6 +70,7 @@ FROM "APA/sections"
 ```dataview
 TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "DB/sections"
+SORT  file.name ASC
 ```
 
 # TDII

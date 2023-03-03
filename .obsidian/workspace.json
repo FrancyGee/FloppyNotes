@@ -4,25 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0d3243817cbf08",
+        "id": "77b89d59212645ea",
         "type": "tabs",
         "children": [
           {
-            "id": "17f96bfd54a1f958",
+            "id": "e862319069f08f05",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "DB/sections/02. Sistema di Gestione di Database.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
+            }
+          },
+          {
+            "id": "6f8160eee834eb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TDII/sections/01. Introduzione.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "TDII/sections/01. Introduzione.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "TDII/sections/01. Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +141,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "TDII/sections/01. Introduzione.md"
               }
+            }
+          },
+          {
+            "id": "82fc69f57a1779f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "528369f4c50ebb20",
@@ -170,11 +190,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "17f96bfd54a1f958",
+  "active": "6f8160eee834eb55",
   "lastOpenFiles": [
+    "Home.md",
+    "TDII/sections/01. Introduzione.md",
+    "_Templates/template.md",
+    "DB/sections/02. Sistema di Gestione di Database.md",
     "DB/sections/01. Modello Relazionale.md",
     "DB/sections/00. Introduzione.md",
-    "Home.md",
     "APA/sections/01. Tecniche di Analisi di Algoritmi.md",
     "APA/sections/00. Introduzione.md",
     "_images/Pasted image 20230227101320.png",
@@ -187,7 +210,6 @@
     "SETI/sections OS/02. Shell.md",
     "SETI/sections OS/03.System Call.md",
     "ALAN/section Algebra Lineare/02. Operazioni tra Matrici.md",
-    "Untitled.md",
-    "_Templates/template.md"
+    "Untitled.md"
   ]
 }

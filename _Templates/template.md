@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-date: <% tp.date.now("YYYY-MM-DD", 1) %>
+date: <% tp.date.now("YYYY-MM-DD", 0) %>
 tags: <% tp.file.folder(true, "../") %>
 status: INCOMPLETE
 difficulty:
