@@ -1,2 +1,13 @@
-./trash/*
-./.vscode/*
+trash/
+.vscode/
+_Code/ALAN/Python/pyvenv.cfg
+_Code/ALAN/Python/venv/
+_Code/ALAN/Python/bin/
+_Code/ALAN/Python/etc/
+_Code/ALAN/Python/lib/
+_Code/ALAN/Python/lib64/
+_Code/ALAN/Python/include/
+_Code/ALAN/Python/share/
+_Code/ALAN/Python/Scripts/
+.obsidian/plugins/obsidian-spaced-repetition/data.json
+.obsidian/plugins./.obsidian/plugins/obsidian-reminder-plugin/data.json
