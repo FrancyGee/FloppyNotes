@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ecccdcf0c000c1b3",
@@ -101,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDII/sections/01. Introduzione.md",
+                "file": "DB/sections/02. Sistema di Gestione di Database.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDII/sections/01. Introduzione.md",
+                "file": "DB/sections/02. Sistema di Gestione di Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDII/sections/01. Introduzione.md"
+                "file": "DB/sections/02. Sistema di Gestione di Database.md"
               }
             }
           },
@@ -190,10 +188,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6f8160eee834eb55",
+  "active": "e862319069f08f05",
   "lastOpenFiles": [
-    "Home.md",
     "TDII/sections/01. Introduzione.md",
+    "Home.md",
     "_Templates/template.md",
     "DB/sections/02. Sistema di Gestione di Database.md",
     "DB/sections/01. Modello Relazionale.md",
