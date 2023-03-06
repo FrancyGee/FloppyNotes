@@ -69,15 +69,6 @@
       "key": "T"
     }
   ],
-  "templater-obsidian:_Templates/template.md": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "obsidian-textgenerator-plugin:generate-text": [
     {
       "modifiers": [
@@ -103,6 +94,16 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "workspace:new-tab": [],
+  "templater-obsidian:_Templates/template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }

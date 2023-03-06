@@ -6,7 +6,8 @@
   "spellcheckLanguages": [
     "en-GB",
     "it",
-    "it-IT"
+    "it-IT",
+    "en-US"
   ],
   "alwaysUpdateLinks": true,
   "vimMode": false,

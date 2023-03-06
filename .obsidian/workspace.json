@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77b89d59212645ea",
+        "id": "c66d0ef8242f5329",
         "type": "tabs",
         "children": [
           {
-            "id": "e862319069f08f05",
+            "id": "3a78051fff0b9567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/sections/02. Sistema di Gestione di Database.md",
+                "file": "TDII/sections/02. Introduzione Probabilità.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,16 +21,18 @@
             }
           },
           {
-            "id": "6f8160eee834eb55",
+            "id": "d4869fc982e45107",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDII/sections/01. Introduzione.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -83,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ecccdcf0c000c1b3",
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/sections/02. Sistema di Gestione di Database.md",
+                "file": "TDII/sections/02. Introduzione Probabilità.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/sections/02. Sistema di Gestione di Database.md",
+                "file": "TDII/sections/02. Introduzione Probabilità.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/sections/02. Sistema di Gestione di Database.md"
+                "file": "TDII/sections/02. Introduzione Probabilità.md"
               }
             }
           },
@@ -188,10 +191,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e862319069f08f05",
+  "active": "3a78051fff0b9567",
   "lastOpenFiles": [
-    "TDII/sections/01. Introduzione.md",
     "Home.md",
+    "TDII/sections/02. Introduzione Probabilità.md",
+    "TDII/sections/01. Introduzione Calcolo Combinatorio.md",
     "_Templates/template.md",
     "DB/sections/02. Sistema di Gestione di Database.md",
     "DB/sections/01. Modello Relazionale.md",

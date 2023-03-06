@@ -77,6 +77,7 @@ SORT  file.name ASC
 ```dataview
 TABLE tags as TAGS, difficulty as DIFFICULTY
 FROM "TDII/sections"
+SORT file.name ASC
 ```
 
 
